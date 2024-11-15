@@ -1,0 +1,52 @@
+.myimage_{
+    display: flex;
+    width: 30%;
+}
+
+.introduction_{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+
+   
+}
+
+.header_{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800%;
+    font-size: 40px;
+    color: darkblue;
+
+    
+
+}
+
+.container{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+.headername_{
+    background-color: steelblue;
+    text-align: center;
+    font-weight: 800%;
+    font-size: 40px;
+
+}
+
+.my{
+    margin-right: 20px;
+    height: 250px;
+    width: 200px;
+}
+
+.introduction_{
+    display: block;
+    align-items: flex-start; 
+    
+}
